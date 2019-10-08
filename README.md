@@ -14,3 +14,4 @@ Rect into square|rect_into_sq.rb
 TwoSum|TwoSum.rb|
 Count Smileys|count_smileys.rb|Regex
 Good vs Evil|good_vs_evil.rb|
+Build a pile of Cubes|build_cubes.rb|
