@@ -13,3 +13,4 @@ Roman numerals decoder|roman_numerals_decoder.rb|Very difficult, incomplete
 Rect into square|rect_into_sq.rb
 TwoSum|TwoSum.rb|
 Count Smileys|count_smileys.rb|Regex
+Good vs Evil|good_vs_evil.rb|
