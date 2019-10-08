@@ -2,6 +2,12 @@
 
 This is the repository for my Codewars files.
 
+### 4<sup>th</sup> kyu
+Kata|Ruby file name|Notes
+---|---|---|
+Human readable duration format|format_duration.rb|
+
+
 ### 6<sup>th</sup> kyu
 
 Kata|Ruby file name|Notes
