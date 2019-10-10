@@ -5,8 +5,12 @@ This is the repository for my Codewars files.
 ### 4<sup>th</sup> kyu
 Kata|Ruby file name|Notes
 ---|---|---|
-Human readable duration format|format_duration.rb|
+Human readable duration format|format_duration.rb|Not very sophisticated or DRY
 
+### 5<sup>th</sup> kyu
+Kata|Ruby file name|Notes
+---|---|---|
+Gap in primes|gap_in_primes.rb|Required optimisation to pass tests in time
 
 ### 6<sup>th</sup> kyu
 
