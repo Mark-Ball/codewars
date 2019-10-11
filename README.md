@@ -12,6 +12,7 @@ Kata|Ruby file name|Notes
 ---|---|---|
 Gap in primes|gap_in_primes.rb|Required optimisation to pass tests in time
 The hashtag generator|generate_hashtag.rb|
+Josephus Permutation|josephus.rb|Mathematical
 
 ### 6<sup>th</sup> kyu
 
