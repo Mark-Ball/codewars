@@ -1,14 +1,16 @@
-## Codewars
+# Codewars
 
 This is the repository for my Codewars files.
 
+## Ruby
+
 ### 4<sup>th</sup> kyu
-Kata|Ruby file name|Notes
+Kata|File name|Notes
 ---|---|---|
 Human readable duration format|format_duration.rb|Not very sophisticated or DRY
 
 ### 5<sup>th</sup> kyu
-Kata|Ruby file name|Notes
+Kata|File name|Notes
 ---|---|---|
 Gap in primes|gap_in_primes.rb|Required optimisation to pass tests in time
 The hashtag generator|generate_hashtag.rb|
@@ -16,7 +18,7 @@ Josephus Permutation|josephus.rb|Mathematical
 
 ### 6<sup>th</sup> kyu
 
-Kata|Ruby file name|Notes
+Kata|File name|Notes
 ---|---|---|
 Count characters in your string|count_chars.rb| 
 Does my number look big in this?|narcissistic.rb|
@@ -27,3 +29,11 @@ TwoSum|TwoSum.rb|
 Count Smileys|count_smileys.rb|Regex
 Good vs Evil|good_vs_evil.rb|
 Build a pile of Cubes|build_cubes.rb|
+
+## Javascript
+
+### 8<sup>th</sup> kyu
+
+Kata|File name|Notes
+---|---|---|
+Reversed Strings|reversedStrings.js|
