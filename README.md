@@ -32,6 +32,12 @@ Build a pile of Cubes|build_cubes.rb|
 
 ## Javascript
 
+### 7<sup>th</sup> kyu
+
+Kata|File name|Notes
+---|---|---|
+Number of people on the bus|busStops.js|
+
 ### 8<sup>th</sup> kyu
 
 Kata|File name|Notes
